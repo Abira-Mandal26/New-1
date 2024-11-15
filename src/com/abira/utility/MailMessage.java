@@ -1,4 +1,4 @@
-package com.shashi.utility;
+package com.abira.utility;
 
 import jakarta.mail.MessagingException;
 
