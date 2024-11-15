@@ -1,15 +1,15 @@
-package com.shashi.service.impl;
+package com.abira.service.impl;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import com.shashi.beans.UserBean;
-import com.shashi.constants.IUserConstants;
-import com.shashi.service.UserService;
-import com.shashi.utility.DBUtil;
-import com.shashi.utility.MailMessage;
+import com.abira.beans.UserBean;
+import com.abira.constants.IUserConstants;
+import com.abira.service.UserService;
+import com.abira.utility.DBUtil;
+import com.abira.utility.MailMessage;
 
 public class UserServiceImpl implements UserService {
 
