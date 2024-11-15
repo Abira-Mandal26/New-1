@@ -1,4 +1,4 @@
-package com.shashi.service;
+package com.abira.service;
 
 public interface TransService {
 
