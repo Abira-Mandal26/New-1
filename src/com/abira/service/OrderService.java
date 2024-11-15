@@ -1,10 +1,10 @@
-package com.shashi.service;
+package com.abira.service;
 
 import java.util.List;
 
-import com.shashi.beans.OrderBean;
-import com.shashi.beans.OrderDetails;
-import com.shashi.beans.TransactionBean;
+import com.abira.beans.OrderBean;
+import com.abira.beans.OrderDetails;
+import com.abira.beans.TransactionBean;
 
 public interface OrderService {
 
