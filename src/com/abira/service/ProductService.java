@@ -1,9 +1,9 @@
-package com.shashi.service;
+package com.abira.service;
 
 import java.io.InputStream;
 import java.util.List;
 
-import com.shashi.beans.ProductBean;
+import com.abira.beans.ProductBean;
 
 public interface ProductService {
 
