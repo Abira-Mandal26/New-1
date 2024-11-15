@@ -1,4 +1,4 @@
-package com.shashi.constants;
+package com.abira.constants;
 
 public interface IUserConstants {
 
