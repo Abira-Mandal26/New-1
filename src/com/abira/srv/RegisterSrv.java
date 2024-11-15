@@ -1,4 +1,4 @@
-package com.shashi.srv;
+package com.abira.srv;
 
 import java.io.IOException;
 
@@ -9,8 +9,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.shashi.beans.UserBean;
-import com.shashi.service.impl.UserServiceImpl;
+import com.abira.beans.UserBean;
+import com.abira.service.impl.UserServiceImpl;
 
 /**
  * Servlet implementation class RegisterSrv
