@@ -1,4 +1,4 @@
-package com.shashi.beans;
+package com.abira.beans;
 
 import java.io.InputStream;
 import java.io.Serializable;
