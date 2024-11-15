@@ -1,6 +1,6 @@
-package com.shashi.service;
+package com.abira.service;
 
-import com.shashi.beans.UserBean;
+import com.abira.beans.UserBean;
 
 public interface UserService {
 
