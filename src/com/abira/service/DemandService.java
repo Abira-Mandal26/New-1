@@ -1,8 +1,8 @@
-package com.shashi.service;
+package com.abira.service;
 
 import java.util.List;
 
-import com.shashi.beans.DemandBean;
+import com.abira.beans.DemandBean;
 
 public interface DemandService {
 
