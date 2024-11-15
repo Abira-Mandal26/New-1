@@ -1,12 +1,12 @@
-package com.shashi.service.impl;
+package com.abira.service.impl;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import com.shashi.service.TransService;
-import com.shashi.utility.DBUtil;
+import com.abira.service.TransService;
+import com.abira.utility.DBUtil;
 
 public class TransServiceImpl implements TransService {
 
