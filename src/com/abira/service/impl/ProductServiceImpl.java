@@ -1,4 +1,4 @@
-package com.shashi.service.impl;
+package com.abira.service.impl;
 
 import java.io.InputStream;
 import java.sql.Connection;
@@ -8,12 +8,12 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.shashi.beans.DemandBean;
-import com.shashi.beans.ProductBean;
-import com.shashi.service.ProductService;
-import com.shashi.utility.DBUtil;
-import com.shashi.utility.IDUtil;
-import com.shashi.utility.MailMessage;
+import com.abira.beans.DemandBean;
+import com.abira.beans.ProductBean;
+import com.abira.service.ProductService;
+import com.abira.utility.DBUtil;
+import com.abira.utility.IDUtil;
+import com.abira.utility.MailMessage;
 
 public class ProductServiceImpl implements ProductService {
 
